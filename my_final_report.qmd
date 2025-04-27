@@ -1,0 +1,29 @@
+
+---
+format:
+  html:
+    embed-resources: true
+    code-fold: true
+theme: journal
+--- 
+
+
+## World Sanitation and Economic Indicators Report
+
+This report presents visualizations analyzing sanitation access in schools and economic indicators across countries.
+
+### Visualisation 1: World Map of Schools with Sanitation
+![Sanitation Map](sanitation_map.png)
+
+### Visualisation 2: Trend Line of School Sanitation over Years
+![Trend Line](sanitation_trend.png)
+
+### Visualisation 3: Economic Indicator Map
+![Economic Map](economic_map.png)
+
+### Visualisation 4: GDP vs Life Expectancy (Bar Chart)
+![Bar Chart](gdp_life_bar_chart.png)
+
+### Visualisation 5: Correlation Heatmap
+![Heatmap](correlation_heatmap.png)
+
